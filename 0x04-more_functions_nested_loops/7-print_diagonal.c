@@ -22,11 +22,11 @@ void print_diagonal(int n)
 			{
 				for (num_lines = 1; num_lines <= row - 1; num_lines++)
 				{
-					_putchar(' ');
+				_putchar(' ');
 				}
-				_putchar('\\');
-				_putchar('\n');
 			}
+			_putchar('\\');
+			_putchar('\n');
 		}
 	}
 }
