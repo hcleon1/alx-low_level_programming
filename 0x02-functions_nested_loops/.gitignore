@@ -1,0 +1,9 @@
+*-main.c
+1-alphabet
+_putchar.c
+ls -
+
+
+
+gcc -Wall -pedantic -Werror -Wextra -std=g
+
